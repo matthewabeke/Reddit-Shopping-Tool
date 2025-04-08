@@ -1,15 +1,17 @@
 {
-  "manifest_version": 2,
-  "name": "Reddit Scammer Labeler",
-  "short_name": "RSL",
+  "manifest_version": 3,
+  "name": "Reddit Scammer Labeler v3",
+  "short_name": "RSLv3",
   "description": "Automatically labels users based on the Universal Scammers List",
-  "version": "1.5.4",
+  "version": "3.0.0",
   "icons": { "16": "icon/icon16.png",
            "48": "icon/icon48.png",
           "128": "icon/icon128.png" },
-  "permissions": [
-	"storage",
+  "host_permissions": [
 	"https://*.reddit.com/*"
+  ],
+  "permissions": [
+	"storage"
   ],
   "options_ui": {
 	"page": "rst-options.html",

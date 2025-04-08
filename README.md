@@ -16,6 +16,10 @@ Reddit Shopping Tool is an extension that automatically identifies any users tha
 
 <strong>Change Log</strong>
 
+Version 3.0.0 / 2025-5-7
+* Forked and added Manifest v3 Compatibility
+* All historical version changes below are from https://github.com/RiceCakess/Reddit-Shopping-Tool
+
 Version 1.5.4 / 2020-9-12
 * Replaced source links to comply with CORS again
 
