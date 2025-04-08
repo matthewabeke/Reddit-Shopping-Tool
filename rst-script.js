@@ -1,6 +1,6 @@
 var uservis = {};
 var options = {};
-var version = "1.5.3";
+var version = "3.0.0";
 var defaultoptions = 
 {
 	"updateTime": 360, 
@@ -72,9 +72,9 @@ function labelUsers(){
 }
 
 var sources = [
-	"https://www.reddit.com/r/hardwareswap/wiki/banlist.json",
-	"https://www.reddit.com/r/RSTList/wiki/banlist.json",  
-	"https://www.reddit.com/r/RSTList/wiki/sketchylist.json"
+	"https://www.reddit.com/r/RSTList2/wiki/index/banfull1.json",
+	"https://www.reddit.com/r/RSTList2/wiki/index/banfull2.json",
+	"https://www.reddit.com/r/RSTList2/wiki/index/sketchyfull.json"
 ];
 function updateList(callback){
 	var users = {};

@@ -1,5 +1,6 @@
-Version 3.0.0 / 2025-5-7
+Version 3.0.0 / 2025-4-7
 * Forked and added Manifest v3 Compatibility
+* Updated USL lists to my custom ones - up to date as of 20250407 
 * All historical version changes below are from https://github.com/RiceCakess/Reddit-Shopping-Tool
 
 Version 1.5.4 / 2020-9-12
