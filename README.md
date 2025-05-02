@@ -1,9 +1,11 @@
 # Reddit-Shopping-Tool
 Reddit Shopping Tool is an extension that automatically identifies any users that have been banned on the <a href="https://www.reddit.com/r/UniversalScammerList/wiki/banlist">Universal Scammer List</a> 
 
-<a href="https://chrome.google.com/webstore/detail/reddit-shopping-tool/pimdepbkfokgeadmhmhfpapfdbodadlg">Chrome Webstore</a>
+<a href="https://chromewebstore.google.com/detail/reddit-scammer-labeler-v3/nckmefccfjmldbhacngijanbojnmgdmc">Chrome Webstore</a>
 <br>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/reddit-shopping-tool/">Firefox AMO Store</a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/reddit-scammer-labeler-v3">Firefox AMO Store</a>
+<br>
+<a href="https://microsoftedge.microsoft.com/addons/detail/kbeincckjjcmdpindcjceloknedegmpi">Microsoft Edge Store</a>
 
 <strong>Big disclaimer: this does not identify any new scammers or scammers that have reddit accounts not on the list.</strong>
 <hr>
